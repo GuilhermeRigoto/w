@@ -26,20 +26,20 @@
   text-align: center;
 }
 
-.footer__center_paragraph {
+.footer__center-paragraph {
   margin: 0;
   font-size: 18px;
   line-height: 22px;
   font-weight: 400;
 }
 
-.footer__center_title {
+.footer__center-title {
   font-size: 72px;
   line-height: 76px;
   margin: 0 0 32px;
 }
 
-.footer__center_button {
+.footer__center-button {
   color: #ffffff;
   width: 191px;
   height: 48px;
@@ -72,7 +72,7 @@
     padding: 0 16px 38px;
   }
 
-  .footer__center_title {
+  .footer__center-title {
     font-size: 32px;
     line-height: 35px;
     margin: 0 0 16px;
@@ -85,7 +85,7 @@
   .footer__center {
     padding: 46px 16px;
   }
-  .footer__center_paragraph {
+  .footer__center-paragraph {
     margin: 0;
     font-size: 14px;
     line-height: 16px;
